@@ -14,8 +14,8 @@ float maxAcceleration = 100;
 
 void setup(){
   size(800,800);
-  myFace = loadImage("/data/pic.jpg");
-  RodFace = loadImage("/data/rod_pic.jpg");
+  myFace = loadImage("./data/pic.jpg");
+  RodFace = loadImage("./data/rod_pic.jpg");
   frameRate(30);
   //points.ResetOnCircle(10);
   points.LoadPoints("data/pts");
