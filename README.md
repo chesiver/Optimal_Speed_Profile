@@ -9,3 +9,4 @@ by one pass along the given path.
 An analytical solution is very difficult, since the complexity and variation of the path shape. We can use forward and backword scheme 
 to calculate the maximum speed of each point. 
 
+The method is presented in Issue1
